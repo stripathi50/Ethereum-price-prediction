@@ -1,7 +1,7 @@
 Sagar_Final_report - Final report of project
 
 Sagar_Final_presentation - Final presentation of project
-Sagar_presentation_video - video giving the Final project presentation
+Final Report - Report giving the Final project description and findings
 
 
 
